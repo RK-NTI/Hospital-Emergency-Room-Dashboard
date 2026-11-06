@@ -4,6 +4,7 @@ Monthly Report
 
 
 # 🎯 Project Objective:
+To analyze hospital emergency room data, identify key trends, and present important insights through an interactive dashboard.
 
 END TO END DASHBOARD PROJECT IN EXCEL
 
