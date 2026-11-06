@@ -1,5 +1,5 @@
-# Hospital Emergency Room Dashboard
-Monthly Report
+# 📊Hospital Emergency Room Dashboard
+**Monthly Report**
 
 
 
