@@ -1,6 +1,8 @@
 # 📊Hospital Emergency Room Dashboard
 **Monthly Report**
 
+Recently, I learned interactive dashboard design and hospital data analysis from Satish Dhawle Sir. Through this learning, I explored how to analyze Hospital Emergency Room data and present meaningful insights using an interactive dashboard.
+
 
 
 # 🎯 Project Objective:
