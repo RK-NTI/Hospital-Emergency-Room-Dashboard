@@ -10,7 +10,6 @@ To analyze hospital emergency room data, identify key trends, and present import
 
 END TO END DASHBOARD PROJECT IN EXCEL
 
-# Problems 
 
 
 # Key insights
