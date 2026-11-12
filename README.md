@@ -11,7 +11,6 @@ I recently worked on Hospital Emergency Analysis project where I analyze patient
 To analyze hospital emergency room data, identify key trends, and present important insights through an interactive dashboard.
 END TO END DASHBOARD PROJECT IN EXCEL
 
-# Project Aim:
 
 # 🔑Key insights
 • Total Number of Patients
