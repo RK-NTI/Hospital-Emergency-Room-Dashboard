@@ -6,7 +6,7 @@ Recently, I learned interactive dashboard design and hospital data analysis from
 # Project Purpose:
 The main purpose of this Hospital Emergency Room Dashboard is to provide an end-to-end, interactive tracking tool for monitoring monthly ER operational performance, patient demographics, and department referrals.
 I recently worked on Hospital Emergency Analysis project where I analyze patients need and services.
-
+#  project problems:
 # 🎯Project Objective:
 To analyze hospital emergency room data, identify key trends, and present important insights through an interactive dashboard.
 END TO END DASHBOARD PROJECT IN EXCEL
