@@ -31,3 +31,6 @@ END TO END DASHBOARD PROJECT IN EXCEL
 
 
 <img width="1218" height="517" alt="image" src="https://github.com/user-attachments/assets/76244fe8-aec7-49d8-a22b-6e9606085934" />
+
+
+<img width="1224" height="533" alt="image" src="https://github.com/user-attachments/assets/08bd9287-e77a-4242-a2d7-eeaa37428b34" />
